@@ -1,0 +1,19 @@
+body{
+    background-image: url(bg.jpg);
+    text-align: center;
+    }
+#button1{
+    background-color: #008CBA;
+    font-size:20px;
+    padding:10px 24px;
+    border-radius:4px;
+    border:2px solid #008CBA;
+
+}
+input{
+    width:100%;
+    padding: 12px 20px;
+    margin:8px;
+    box-sizing:border-box;
+}
+    
